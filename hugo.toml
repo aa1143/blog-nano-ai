@@ -1,36 +1,38 @@
 baseURL = '/'
-languageCode = 'en-us'
-title = 'Hugo Template'
-theme = 'ananke'
+languageCode = 'zh-cn'
+title = 'nanoAI Blog'
+theme = 'mana'
 
-# Theme parameters
 [params]
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  site_logo = ""
-  description = "The last theme you'll ever need"
-  body_classes = "avenir bg-near-white"
+  description = "A blog about AI and technology"
+  heroTitleLine1 = "NANOAI"
+  heroTitleLine2 = "BLOG"
 
-# Menu Configuration
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "get-start"
-    name = "Get Started"
-    url = "/get-start/"
-    weight = 2
-  [[menu.main]]
-    identifier = "installation"
-    name = "Installation"
-    url = "/get-start/installation/"
-    weight = 3
+[params.avatar]
+  url = "https://managuide.blog/images/transparent-logo.png"
 
-# Outputs configuration
+[params.social]
+  github = "https://github.com/aa1143"
+
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+
+[[menus.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 20
+
+[[menus.main]]
+  name = 'Tags'
+  pageRef = '/tags'
+  weight = 30
+
+[[menus.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 40
+
 [outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML"]
-  term = ["HTML"]
+  home = ["HTML", "JSON"]
