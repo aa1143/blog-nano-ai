@@ -6,12 +6,9 @@ draft: false
 author: "nanoAI"
 tags: ["第一性原理",  "技术科普", "AI"]
 categories: ["技术思考"]
-image: "/first_principles.webp" 
+image: "/first_principles/cover.webp" 
 summary: "用程序员视角拆解第一性原理，把复杂概念讲明白。"
 ---
-
-
-
 ## 01 · 这个词本身就有问题
 "第一性原理"——光听这个名字，就已经把 90% 的人劝退了。
 
