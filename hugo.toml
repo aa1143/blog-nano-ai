@@ -1,11 +1,11 @@
 baseURL = '/'
 languageCode = 'zh-cn'
-title = 'nanoAI Blog'
+title = 'Nano-AI Blog'
 theme = 'mana'
 
 [params]
   description = "A blog about AI and technology"
-  heroTitleLine1 = "NANOAI"
+  heroTitleLine1 = "NANO-AI"
   heroTitleLine2 = "BLOG"
 
 [params.avatar]
