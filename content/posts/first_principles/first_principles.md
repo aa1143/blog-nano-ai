@@ -6,7 +6,7 @@ draft: false
 author: "nanoAI"
 tags: ["第一性原理",  "技术科普", "AI"]
 categories: ["技术思考"]
-image: "cover.webp" 
+image: "/first_principles.webp" 
 summary: "用程序员视角拆解第一性原理，把复杂概念讲明白。"
 ---
 
