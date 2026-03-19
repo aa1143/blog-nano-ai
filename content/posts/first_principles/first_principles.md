@@ -9,7 +9,6 @@ categories: ["技术思考"]
 image: "/first_principles/cover.webp" 
 summary: "用程序员视角拆解第一性原理，把复杂概念讲明白。"
 ---
-# 第一性原理？其实你初中就学过了
 
 马斯克说他造火箭用的是"第一性原理"。
 
@@ -66,7 +65,7 @@ summary: "用程序员视角拆解第一性原理，把复杂概念讲明白。"
 **第一性原理，就是强制切换成 DFS。**
 
 ---
-![dfs](/first_principles/dfs.webp)
+![dfs](/first_principles/dfs.png)
 
 ## 后台工程师每天都在做这件事
 
