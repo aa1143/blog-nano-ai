@@ -1,4 +1,5 @@
 baseURL = '/'
+hasCJKLanguage = true 
 languageCode = 'zh-cn'
 title = 'Nano-AI Blog'
 theme = 'mana'
@@ -36,3 +37,5 @@ theme = 'mana'
 
 [outputs]
   home = ["HTML", "JSON"]
+
+
