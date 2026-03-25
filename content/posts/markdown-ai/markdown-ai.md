@@ -6,7 +6,7 @@ draft: false
 author: "nanoAI"
 tags: ["AI工具",  "效率工具", "AI"]
 categories: ["技术思考"]
-image: "/fmarkdown-ai/cover.webp" 
+image: "/markdown-ai/cover.webp" 
 summary: "带你从零了解Markdown，AI时代最重要的语言"
 ---
 
