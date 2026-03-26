@@ -23,8 +23,8 @@ draft: false
 
 如果你对技术讨论、AI 或投资理财感兴趣，可以通过以下方式联系我：
 
-* **GitHub**: [@aa1143](https://github.com/aa1143)
-* **Email**: [814185384@qq.com](mailto:814185384@qq.com)
-* **抖音/小红书**: 搜索 **[nano-ai]**
+* **GitHub**: [](https://github.com/aa1143)
+* **Email**: [](mailto:814185384@qq.com)
+* [![](https://sns-webpic.xhslink.com/fe_static/xhs-web/static/media/xhs-icon.1a2b3c4d.png)](https://www.xiaohongshu.com/user/profile/2904264396 "小红书主页")
 
 感谢你的阅读与关注。
