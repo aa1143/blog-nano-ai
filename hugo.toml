@@ -16,6 +16,7 @@ theme = 'mana'
   github = "https://github.com/aa1143"
   email = "mailto:814185384@qq.com"
   xiaohongshu = "https://www.xiaohongshu.com/user/profile/63402ef600000000180288d0"
+  tiktok = "https://v.douyin.com/vPcBDXr1lRk"
 
 [[menus.main]]
   name = 'Home'
