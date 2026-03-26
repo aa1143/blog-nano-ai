@@ -14,6 +14,7 @@ theme = 'mana'
 
 [params.social]
   github = "https://github.com/aa1143"
+  email = "mailto:814185384@qq.com"
 
 [[menus.main]]
   name = 'Home'
